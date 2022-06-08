@@ -10,11 +10,11 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=RMX2151
-device.name2=rmx2151
-device.name3=rmx2161
-device.name4=RMX2161
-device.name5=RMX2001
+device.name1=RMX3241
+device.name2=rmx3241
+device.name3=RMX3242
+device.name4=rmx3242
+device.name5=RMX3381
 supported.versions=
 supported.patchlevels=
 '; } # end properties
